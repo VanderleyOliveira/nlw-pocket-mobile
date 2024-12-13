@@ -13,6 +13,8 @@ Nearby é um aplicativo mobile que tem a capacidade de mostrar, através de um m
 - Typescript 
 - Expo 
 
+#### OBS: Todo o app está na pasta `mobile`
+
 ##
 
 ### Esse projeto é do evento [NLW Pocket Mobile]().
